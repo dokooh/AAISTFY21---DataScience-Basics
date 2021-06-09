@@ -2,11 +2,9 @@ name: datascience_basics
 channels:
   - conda-forge
 dependencies:
-  - os
   - numpy
   - matplotlib
   - pandas
   - seaborn
   - plotly
-  - sklearn
-  - math
+  - scikit-learn
